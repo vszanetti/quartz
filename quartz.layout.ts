@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Mastodon: "",
       Instagram: "",
+      Donate: "https://ko-fi.com/vitorzanetti",
     },
   }),
 }
