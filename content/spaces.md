@@ -25,7 +25,7 @@ Not all spaces need to be full all the time. Take, for instance, Italian piazzas
 
 The COVID-19 pandemic provided an example of how spaces can be repurposed. City spaces were converted into triage sites and field hospitals to manage the overflow of suspected COVID-19 cases. This was a temporary but essential transformation of space, turning what might have been considered useless into a critical resource.
 
-The **New York High Line** is another prime example of how a neglected space can be transformed. Originally an abandoned railway, it was repurposed into a vibrant urban park. This green lung combines wild nature with urban life, offering a space where social and cultural activities can thrive. Similarly, the **Minhocão** in São Paulo, Brazil, an elevated expressway, is closed to traffic at night and on weekends, allowing it to be repurposed as a public space for the community.
+The **New York High Line** is a prime example of how a neglected space can be transformed. Originally an abandoned railway, it was repurposed into a vibrant urban park. This green lung combines wild nature with urban life, offering a space where social and cultural activities can thrive. Similarly, the **Minhocão** in São Paulo, Brazil, an elevated expressway, is closed to traffic at night and on weekends, allowing it to be repurposed as a public space for the community.
 
 <figure>
     <img src="https://arquitecturaviva.com/assets/uploads/obras/45017/av_medium__av_66215.webp?h=be623b46"
@@ -49,4 +49,6 @@ These examples demonstrate how spaces that may seem inefficient by design can be
 ***
 
 SAO, Janhvi. **Dead Spaces in Architecture**. architerrax. Available at: <https://www.architerrax.com/post/dead-spaces-in-architecture>. Accessed: 13 ago. 2024.
+<br>
+
 AUDOLY, Sonia. **Reinventing unused spaces**. Interni Magazine. Disponível em: <https://www.internimagazine.com/architecture/urban-spaces/>. Accessed: 13 ago. 2024.
