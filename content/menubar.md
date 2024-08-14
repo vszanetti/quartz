@@ -1,6 +1,7 @@
 ---
 title: I love the menu bar
 draft: false
+date: 2024-08-06
 tags:
   - computers
   - opinion
