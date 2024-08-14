@@ -11,7 +11,7 @@ tags:
 
 What is a **space?** Is it simply a physical location, like a building or a part of a place? Or is it something more metaphysical, a concept shaped by human interaction and perception? The answer lies somewhere in between. Spaces are not just about physical structures; they are about the activities they host, the lives they intersect with, and the meanings they acquire over time. However, not all spaces achieve this purpose. Some spaces, though designed with intent, end up being neglected, underutilized, or downright forgotten. These useless spaces, if left unattended, can become breeding grounds for undesirable activities or simply remain empty voids in the urban landscape.
 
-Consider, for example, an office zone in a downtown area. At 5 P.M., when the workday ends, this area transforms into an uninviting desert. No bars, no residential buildings, no schools, no supermarkets—just a lifeless expanse, unsupervised and uninhabited. Such empty spaces, if ignored, can invite unwanted elements like crime, turning them from mere voids into dangerous zones.
+Consider, for example, an office zone in a downtown area. At 5 P.M. When the workday ends, this area transforms into an uninviting desert. No bars, no residential buildings, no schools, no supermarkets—just a lifeless expanse, unsupervised and uninhabited. Such empty spaces, if ignored, can invite unwanted elements like crime, turning them from mere voids into dangerous zones.
 
 Useless spaces can be broadly divided into three categories: **Urban Cracks**, **Interstitial Spaces**, and **Non-Place Spaces**. Each has its unique characteristics, but all share the common trait of being neglected or misused, often due to poor planning or changing economic conditions.
 
