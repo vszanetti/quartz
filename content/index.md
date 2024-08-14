@@ -12,3 +12,9 @@ I’m an engineering student interested in computers, architecture, cooking, lan
 <div class="centered">
         <img src="https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif" alt="GIF">
     </div>
+
+***
+
+### Recent posts
+
+[A blessing for the commoners](/blessing) | [I love the menu bar](/menubar) | [Piracy 101](/piracy)

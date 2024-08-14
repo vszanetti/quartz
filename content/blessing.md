@@ -4,6 +4,8 @@ draft: false
 tags:
   - beer
   - humour
+
+date: 2024-06-29
 ---
 <figure>
     <img src="https://i.etsystatic.com/11397434/r/il/dec46e/3457810687/il_794xN.3457810687_ta8s.jpg"

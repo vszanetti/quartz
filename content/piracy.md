@@ -1,6 +1,7 @@
 ---
 title: Piracy 101
 draft: false
+date: 2024-08-05
 tags:
   - internet
   - ethics
@@ -35,7 +36,7 @@ The success of these models varies by region and content type. In music, for exa
 The world of torrenting requires more than merely comprehending the technology behind it all, as it also demands a keen awareness of both ethical considerations and potential risks - whether it is computer related or legally related. This includes understanding the fundamentals of how torrents work, choosing the right tools, and ensuring one's privacy and security.
 #### What is torrenting?
 
-"Torrenting" is the act of downloading what is shared by others and sharing to others what you have downloaded. It is done through "peer-to-peer" (P2P). This communication protocol has single handedly transformed the way of distributing large files online. Unlike traditional file sharing, Torrenting relies on decentralization and the collective power of its users because each and every downloaded file is obtained from multiple sources, referred to as "seeds" and "peers" [as flawlessly explained by Edouard Courty](!https://medium.com/@edouard.courty/how-does-the-torrent-protocol-work-4ff40615d2ba#:~:text=The%20Torrent%20protocol%20is%20a%20peer%2Dto%2Dpeer%20(P2P,collective%20power%20of%20its%20users.):
+"Torrenting" is the act of downloading what is shared by others and sharing to others what you have downloaded. It is done through "peer-to-peer" (P2P). This communication protocol has single handedly transformed the way of distributing large files online. Unlike traditional file sharing, Torrenting relies on decentralization and the collective power of its users because each and every downloaded file is obtained from multiple sources, referred to as "seeds" and "peers" as flawlessly explained by Edouard Courty<sup>2</sup>:
 
 >Torrenting works by breaking down large files into smaller pieces. When you initiate a download, your Torrent client contacts a tracker (a specialized server), which helps it find other users who have the same Torrent file or are downloading the same content. These users are your potential sources for the file.
  Once your client connects to other users, it begins downloading and uploading pieces of the file simultaneously. This is the essence of peer-to-peer sharing. As you download more pieces, you also start to upload the pieces you’ve already downloaded to others, contributing to the distributed nature of the network. This system of sharing allows for efficient and resilient file transfers.
@@ -63,3 +64,6 @@ In conclusion, be careful and do what suits you best.
 <sup>*</sup>: public (or "open") trackers don't require any registration or login and they are open for all, in opposition to private trackers, that require registering on their site before using it. Usually those work via maintaining a download-upload ration.
 ***
 <sup>1</sup>: SAVELKOUL, Ruben. Superstars vs the long tail: How does music piracy affect digital song sales for different segments of the industry? **Information Economics and Policy**, v. 50, p. 100847–100847, 2020. Available at: <https://www.sciencedirect.com/science/article/abs/pii/S0167624519300782>. Accessed: 6 ago. 2024.
+<br>
+<sup>2</sup>: EDOUARD COURTY. How does the Torrent protocol work? - Edouard Courty - Medium. Medium. Available at: <https://medium.com/@edouard.courty/how-does-the-torrent-protocol-work-4ff40615d2ba#:~:text=The%20Torrent%20protocol%20is%20a%20peer%2Dto%2Dpeer%20(P2P,collective%20power%20of%20its%20users.>. Accessed: 7 ago. 2024.
+‌
