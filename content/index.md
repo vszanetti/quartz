@@ -17,4 +17,4 @@ I’m an engineering student interested in computers, architecture, cooking, lan
 
 ### Recent posts
 
-[A blessing for the commoners](/blessing) | [I love the menu bar](/menubar) | [Piracy 101](/piracy) | [Useless Spaces](/spaces)
+[A blessing for the commoners](/blessing) | [I love the menu bar](/menubar) | [Piracy 101](/piracy) | [Useless Spaces](/spaces) | [The "gamer" aesthetic is beyond awful](/gamer)
