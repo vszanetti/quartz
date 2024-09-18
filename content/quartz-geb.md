@@ -7,6 +7,8 @@ tags:
 ---
 # gebrael, atenção!
 eu fiz esse tutorial para uma pessoa usando windows. qualquer um desses programas, com excessão do *chocolatey*, que serve para instalar programas no windows via terminal, pode ou deve ser instalada usando >brew install (...) no terminal do mac. Os outros passos seguem os mesmos.
+## atenção parte 2
+isso não está completo...não a parte de colocar online, mas uma hora estará. talvez. já vou adiantando que é super fácil e não tem custo, só se quiseres usar teu próprio domínio como eu faço.
 #### Pré-requisitos
 1. Baixe e instale o [NodeJS](). Marque a opção se instalar itens adicionais à instalação (Chocolatey; Python):
 ![[Pasted image 20240829194746.png]]
