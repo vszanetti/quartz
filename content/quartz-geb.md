@@ -1,7 +1,7 @@
 ---
-title: [incompleto] Usando o Quartz 4 para criar um site estático
+title: (incompleto) Usando o Quartz 4 para criar um site estático
 draft: false
-date: 2024-08-29
+date: 2024-29-08
 tags:
   - tutorial
 ---
