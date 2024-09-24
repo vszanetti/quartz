@@ -1,5 +1,5 @@
 ---
-title: Piracy 101
+title: Sailing the high sea
 draft: false
 date: 2024-08-05
 tags:
