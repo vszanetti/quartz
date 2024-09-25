@@ -2,13 +2,8 @@
 title: Recent posts
 draft: false
 ---
-<h2>Five most recent publications </h2>
-<br>
-
-[A blessing for the commoners](blessing) · [I love the menu bar](menubar) · [Sailing the high sea](piracy) · [Useless Spaces](/spaces) · [The "gamer" aesthetic is beyond awful](/gamer)
-
 <header class="entry-header">
-    <h2 class="entry-title"><a href="brutalismo" rel="bookmark">A defying beauty</a></h2>
+    <h2 class="entry-title"><a href="brutalism" rel="bookmark">A defying beauty</a></h2>
     <div class="entry-details">
         <div class="entry-date">
             <a>June 06, 2024</a>
