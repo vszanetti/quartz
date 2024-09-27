@@ -4,7 +4,7 @@ title: Welcome
 
 Hi there! I’m Vitor Zanetti. Long story short: I consider myself to be urbanophilic, a craft beer enthusiast; double espresso appreciator and a David Lynch enjoyer.
 
-I speak English, Portuguese, Italian and French. My main interests are architecture, design, computers, beer, collecting, LEGOs and cats.
+I speak English, Portuguese, Italian and some French. My main interests are architecture, design, computers, beer, collecting, LEGOs and cats.
 
 I am also fond of programming, which led me to write a thing or another such as:
 
