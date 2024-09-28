@@ -1,7 +1,7 @@
 ---
 title: A defying beauty
 draft: false
-date: 2024-06-06
+date: 2024-07-06
 tags:
   - architecture
 ---
