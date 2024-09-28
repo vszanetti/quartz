@@ -21,6 +21,16 @@ draft: false
         </div></div></header>
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="minimalism_more_stuff" rel="bookmark">Minimalism is when you buy more stuff</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>September 27, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/minimalism" rel="category tag">Minimalism</a>
+        </div></div></header>
+
+
+<header class="entry-header">
       <h2 class="entry-title"><a href="menubar" rel="bookmark">I love the menu bar</a></h2>
       <div class="entry-details">
           <div class="entry-date">
