@@ -3,21 +3,12 @@ title: Recent posts
 draft: false
 ---
 <header class="entry-header">
-    <h2 class="entry-title"><a href="brutalism" rel="bookmark">A defying beauty</a></h2>
+    <h2 class="entry-title"><a href="arguments" rel="bookmark">I wish convincing people with arguments was real</a></h2>
     <div class="entry-details">
         <div class="entry-date">
-            <a>July 06, 2024</a>
+            <a>September 28, 2024</a>
         </div><div class="entry-topic">
-            <a href="tags/architecture" rel="category tag">Architecture</a>
-        </div></div></header>
-
-<header class="entry-header">
-    <h2 class="entry-title"><a href="spaces" rel="bookmark">Useless spaces</a></h2>
-    <div class="entry-details">
-        <div class="entry-date">
-            <a>August 13, 2024</a>
-        </div><div class="entry-topic">
-            <a href="tags/architecture" rel="category tag">Architecture</a>
+            <a href="tags/internet" rel="category tag">Internet</a>
         </div></div></header>
 
 <header class="entry-header">
@@ -30,10 +21,28 @@ draft: false
         </div></div></header>
 
 <header class="entry-header">
-    <h2 class="entry-title"><a href="arguments" rel="bookmark">I wish convincing people with arguments was real</a></h2>
+    <h2 class="entry-title"><a href="gamer" rel="bookmark">The "gamer" aesthetic is beyond awful</a></h2>
     <div class="entry-details">
         <div class="entry-date">
-            <a>September 28, 2024</a>
+            <a>August 17, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/design" rel="category tag">Design</a>
+        </div></div></header>
+
+<header class="entry-header">
+    <h2 class="entry-title"><a href="spaces" rel="bookmark">Useless spaces</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>August 13, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/architecture" rel="category tag">Architecture</a>
+        </div></div></header>
+
+<header class="entry-header">
+    <h2 class="entry-title"><a href="whataboutme" rel="bookmark">What about me?</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>August 11, 2024</a>
         </div><div class="entry-topic">
             <a href="tags/internet" rel="category tag">Internet</a>
         </div></div></header>
@@ -48,15 +57,6 @@ draft: false
           </div></div></header>
 
 <header class="entry-header">
-      <h2 class="entry-title"><a href="gamer" rel="bookmark">The "gamer" aesthetic is beyond awful</a></h2>
-      <div class="entry-details">
-          <div class="entry-date">
-              <a>August 17, 2024</a>
-              </div><div class="entry-topic">
-                <a href="tags/design" rel="category tag">Design</a>
-          </div></div></header>
-
-<header class="entry-header">
       <h2 class="entry-title"><a href="piracy" rel="bookmark">Sailing the high seas</a></h2>
       <div class="entry-details">
           <div class="entry-date">
@@ -64,6 +64,15 @@ draft: false
               </div><div class="entry-topic">
                 <a href="tags/ethics" rel="category tag">Ethics</a>
           </div></div></header>
+
+<header class="entry-header">
+    <h2 class="entry-title"><a href="brutalism" rel="bookmark">A defying beauty</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>July 06, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/architecture" rel="category tag">Architecture</a>
+        </div></div></header>
 
 <header class="entry-header">
       <h2 class="entry-title"><a href="blessing" rel="bookmark">A blessing for the commoners</a></h2>
