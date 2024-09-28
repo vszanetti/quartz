@@ -29,6 +29,14 @@ draft: false
             <a href="tags/minimalism" rel="category tag">Minimalism</a>
         </div></div></header>
 
+<header class="entry-header">
+    <h2 class="entry-title"><a href="arguments" rel="bookmark">I wish convincing people with arguments was real</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>September 28, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/internet" rel="category tag">Internet</a>
+        </div></div></header>
 
 <header class="entry-header">
       <h2 class="entry-title"><a href="menubar" rel="bookmark">I love the menu bar</a></h2>
