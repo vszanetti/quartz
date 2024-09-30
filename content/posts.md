@@ -48,6 +48,15 @@ draft: false
         </div></div></header>
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="dreamsofconvenience" rel="bookmark">Dreams of convenience</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>August 08, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/internet" rel="category tag">Internet</a>
+        </div></div></header>
+
+<header class="entry-header">
       <h2 class="entry-title"><a href="menubar" rel="bookmark">I love the menu bar</a></h2>
       <div class="entry-details">
           <div class="entry-date">

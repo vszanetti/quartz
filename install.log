@@ -1,0 +1,10 @@
+[22:45:44 2024-09-28] FETCHING Version 2.38.4
+[22:45:44 2024-09-28] CREATING /Users/zanetti/.spicetify
+[22:45:44 2024-09-28] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.38.4/spicetify-2.38.4-darwin-arm64.tar.gz
+[22:45:46 2024-09-28] EXTRACTING /Users/zanetti/.spicetify/spicetify.tar.gz
+[22:45:46 2024-09-28] SETTING EXECUTABLE PERMISSIONS TO /Users/zanetti/.spicetify/spicetify
+[22:45:46 2024-09-28] REMOVING /Users/zanetti/.spicetify/spicetify.tar.gz
+[22:45:46 2024-09-28] CREATING /Users/zanetti/.zshrc
+[22:45:46 2024-09-28] APPENDING /Users/zanetti/.spicetify to PATH in /Users/zanetti/.zshrc
+[22:45:46 2024-09-28] spicetify v2.38.4 was installed successfully to /Users/zanetti/.spicetify
+[22:45:46 2024-09-28] Run 'spicetify --help' to get started

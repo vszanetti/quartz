@@ -1,5 +1,5 @@
 ---
-title: Sailing the high sea
+title: Sailing the high seas
 draft: false
 date: 2024-08-05
 tags:
