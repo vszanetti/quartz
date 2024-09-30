@@ -22,6 +22,15 @@ draft: false
         </div></div></header>
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="manchester" rel="bookmark">The weight of a soul</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>September 16, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/cinema" rel="category tag">Cinema</a>
+        </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="gamer" rel="bookmark">The "gamer" aesthetic is beyond awful</a></h2>
     <div class="entry-details">
         <div class="entry-date">

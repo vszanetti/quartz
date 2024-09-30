@@ -5,6 +5,7 @@ date: 09-26-2024
 tags:
   - internet
   - opinion
+  - cinema
 ---
 <p style="text-align:justify;"><i>12 Angry Men</i> is a deeply human story about the nature of judgement, bias, and ultimately the struggle to communicate. In a claustrophobic room, twelve jurors armed with their own prejudices and personal experiences must decide the fate of a young man accused of murder. It's a tense setting, where emotion and <i>biased</i> logic skirmish. Yet, what stands out most to me is the way the film lays the painful difficulty of getting people to truly <i>listen</i> to one another.</p>
 <p style="text-align:justify;">At its heart, the film showcases how deeply flawed man's ability to have a genuine conversation can be. One of the jurors, for instance, is the lone voice of dissent, urging the group to reconsider their quick judgement. But time and time again, his points are ignored, misinterpreted, or aggressively rejected by men who <i>just wanted to go home</i>. He repeats himself, calmly explains his reasoning - only to be met with fury or apathy. It should be eerily familiar to anyone who has ever found themselves trying to have a meaningful discussion online with people who have closed ears and minds already made up. </p>
