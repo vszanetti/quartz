@@ -75,6 +75,15 @@ draft: false
           </div></div></header>
 
 <header class="entry-header">
+      <h2 class="entry-title"><a href="youdontneedit" rel="bookmark">You don't need it, but maybe you do</a></h2>
+      <div class="entry-details">
+          <div class="entry-date">
+              <a>July 21, 2024</a>
+              </div><div class="entry-topic">
+                <a href="tags/others" rel="category tag">Others</a>
+          </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="brutalism" rel="bookmark">A defying beauty</a></h2>
     <div class="entry-details">
         <div class="entry-date">
