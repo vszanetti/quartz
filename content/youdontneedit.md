@@ -18,11 +18,11 @@ tags:
 
 <p style="text-align:justify;">Now, this is where people seem to get confused — and no shame on that — quality and "latest tech" aren't the same thing. <b>There is virtually no need to buy new stuff every year</b>. Tech companies, mostly, will have you believe that last year's model is outdated junk but it's not.</p>
 
-<blockquote>Remember when Apple compared Series 10's screen size to Series 6's?</blockquote>
+<blockquote>Remember when Apple announced an 8gb M3 laptop?</blockquote>
 
-<p style="text-align:justify;">Now, where I mean to get to is that going for the "budget option" is not a good deal because regretting it later on is not very <i>budgettin'</i> of a choice. It's about balance. Again, <i>no one</i> needs a $1,500 phone to scroll through memes on social media. The sweet spot is finding the tech that is will enough to last and actually being used for its intended purposed. That's why I, in particular, always aim for mid-range. </p>
+<p style="text-align:justify;">Now, where I mean to get to is that going for the "budget option" is not a good deal because regretting it later on is not very <i>budgettin'</i> of a choice. It's about balance. Again, <i>no one</i> needs a $1,500 phone to scroll through memes on social media. The sweet spot is finding the tech that is good enough to last and actually being used for its intended purposed. That's why I, in particular, always aim for mid-range. </p>
 
-<p style="text-align:justify;">The broader issue is that consumerism has shifted from "buy what you <b>need</b>" to "buy whatever <b>makes you feel superior</b>". This is why people line up for the brand new iPhone like it's the cure for boredom or as if this will finally cure their FOMO.</p>
+<p style="text-align:justify;">The broader issue is that consumerism has shifted from "buy what you <b>need</b>" to "buy whatever <b>makes you feel superior</b>". This is why people line up for the brand new iPhone like it's the cure for boredom when it's just FOMO.</p>
 
 <p style="text-align:justify;">Sometimes I think of how much what I buy is genuinely for me, and how much of it is just to keep up with others. Was it a subconscious flex or am I part of a secret Apple cult, so secret not even I knew I had any part in it?</p>
 
