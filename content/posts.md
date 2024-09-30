@@ -2,6 +2,7 @@
 title: Recent posts
 draft: false
 ---
+### All posts are as follow, from latest to last. You can access the tags [by clicking here](tags).
 <header class="entry-header">
     <h2 class="entry-title"><a href="arguments" rel="bookmark">I wish convincing people with arguments was real</a></h2>
     <div class="entry-details">
