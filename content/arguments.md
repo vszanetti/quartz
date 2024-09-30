@@ -1,7 +1,7 @@
 ---
 title: "I wish convincing people with arguments was real"
 draft: false
-date: 28-09-2024
+date: 09-26-2024
 tags:
   - internet
   - opinion

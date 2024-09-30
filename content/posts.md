@@ -91,3 +91,12 @@ draft: false
               </div><div class="entry-topic">
                 <a href="tags/humour" rel="category tag">Humour</a>
           </div></div></header>
+
+<header class="entry-header">
+      <h2 class="entry-title"><a href="lalaland" rel="bookmark">La La Land is not for you, anyway</a></h2>
+      <div class="entry-details">
+          <div class="entry-date">
+              <a>June 06, 2024</a>
+              </div><div class="entry-topic">
+                <a href="tags/humour" rel="category tag">Humour</a>
+          </div></div></header>
