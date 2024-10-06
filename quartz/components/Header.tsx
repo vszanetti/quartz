@@ -12,10 +12,10 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
         <ul>
           <li>
             <a href="/about">About</a>
-            <ul class="dropdown">
+            <ul className="dropdown">
               <li>
                 <a href="/about/privacy">Privacy</a>
-              </li></ul>
+              </li>
             </ul>
           </li>
           <li>
@@ -26,7 +26,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
           </li>
         </ul>
       </nav>
-      {children.length > 0 && <div>{children}</div>}
+      {children && children.length > 0 && <div>{children}</div>}
     </header>
   )
 }
@@ -118,7 +118,6 @@ nav ul li ul.dropdown li a {
 nav ul li ul.dropdown li a:hover {
   background-color: #B22222;
 }
-
 `
 
 export default (() => Header) satisfies QuartzComponentConstructor
