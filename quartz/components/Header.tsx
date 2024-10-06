@@ -15,7 +15,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
             <ul class="dropdown">
               <li>
                 <a href="/about/privacy">Privacy</a>
-              </li>
+              </li></ul>
             </ul>
           </li>
           <li>
