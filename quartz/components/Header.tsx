@@ -12,17 +12,15 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
         <ul>
           <li>
             <a href="/about">About</a>
-            <ul className="dropdown">
-              <li>
-                <a href="/about/privacy">Privacy</a>
-              </li>
-            </ul>
           </li>
           <li>
             <a href="/posts">Posts</a>
           </li>
           <li>
             <a href="/contact">Contact</a>
+          </li>
+          <li>
+            <a href="/about/privacy">Privacy</a>
           </li>
         </ul>
       </nav>
