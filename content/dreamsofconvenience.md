@@ -1,7 +1,7 @@
 ---
 title: Dreams of convenience
 draft: false
-date: 2024-08-05
+date: 2024-08-08
 tags:
   - internet
   - rant
@@ -16,8 +16,12 @@ tags:
 
 <p style="text-align:justify;">It's common sense to state that streaming services have also lost the plot: netflix and its gang have tripled their prices, introduced ads and pretended like people wouldn't notice. What once was a revolutionary way to watch media now feels like cable TV with extra steps. People are turning to piracy everyday, and rightfully so. <a href="piracy">I've already written about it here.</a></p>
 
-<p style="text-align:justify;">Sometimes I feel like the internet is more of an antique store than a library - everything is orderly disorganized, buried under layers of disposable content that, if you dig deep enough, you might find a gem. A blog with an actual human perspective, perhaps (cough cough), a thoughtful YouTube creator not chasing the algorithm, a niche forum filled with passionate, knowledgeable people — these are the places that strike the internet as worth traversing.</p>
+<p style="text-align:justify;">Sometimes I feel like the internet is more of an antique store than a library - everything is orderly disorganized, buried under layers of disposable content that, if dig deep enough, might lead to a gem. A blog with an actual human perspective, perhaps (cough cough), a thoughtful YouTube creator not chasing the algorithm, a niche forum filled with passionate, knowledgeable people — these are the places that strike the internet as worth traversing.</p>
 
 <p style="text-align:justify;">And under all that, privacy has become an afterthought, it seems. Every click, every like, every search is tracked and sold, creating a digital version of yourself that corporations use to deliver a never-ending stream of personalized ads. It's hard to escape the feeling that the internet itself is spying on you — always watching, always selling, always monetizing. The world revolves around money, we all know, and the internet only reflects this.</p>
 
-<p style="text-align:justify;">Stuck we are, under this cycle of curated perfection, clickbait, spam, scams, and a tremendous, unbearable amount of ads. Inundated with noise, unable to escape this chaos unless if retreated into smaller, curated bubbles that reflect back our own preferences. Do not understand this as <a href="whataboutme">bubble</a>. I could spend many and many hours trying to turn this into doomsday, but it's not like that. I'm often pragmatic, sure, but in the end I'm optimistic and say it will get better. Or it won't. Either way, we're stuck. Visit my <a href="https://ko-fi.com/vitorzanetti">ko-fi page</a> if you agree. If you don't, double the tip it and pass it onto the next person.</p>
+<p style="text-align:justify;">Stuck we are, under this cycle of curated perfection, clickbait, spam, scams, and a tremendous, unbearable amount of ads. Inundated with noise, unable to escape this chaos unless if retreated into smaller, curated bubbles that reflect back our own preferences. Do not understand this as <a href="whataboutme">bubble</a>. I could spend many and many hours trying to turn this into doomsday, but it's not like that. I'm often pragmatic, sure, but in the end I'm optimistic and say it will get better. Or it won't. Either way, we're stuck. Visit my <a href="https://ko-fi.com/vitorzanetti">ko-fi page</a> if you agree. If you don't, double it and pass it onto the next person.</p>
+
+<p style="text-align:right; font-size:smaller; color:gray;">
+Last edited: October 6, 2024
+</p>
