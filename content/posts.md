@@ -4,7 +4,7 @@ draft: false
 ---
 ### All posts are as follow, from latest to last. You can access the tags [by clicking here](tags).
 <header class="entry-header">
-    <h2 class="entry-title"><a href="asonicsignature" rel="bookmark">A sonic signature</a></h2>
+    <h2 class="entry-title"><a href="asonicsignature" rel="bookmark">Sonic signatures</a></h2>
     <div class="entry-details">
         <div class="entry-date">
             <a>October 11, 2024</a>
