@@ -1,3 +1,23 @@
 @use "./base.scss";
 
+/* styles/custom.scss */
+
+blockquote {
+  display: block; /* Ensures it behaves like a block-level element */
+  background-color: rgba(220, 20, 60, 0.1); /* Light crimson background with low opacity */
+  border-left: 3px solid #dc143c; /* Darker crimson left border */
+  padding: 10px 15px; /* Padding inside the block */
+  margin: 10px 0; /* Margin above and below the block */
+  border-radius: 0px; /* Rounded corners */
+  font-size: 1em; /* Adjust font size as needed */
+  color: #333; /* Text color */
+  box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+
+//  /* Optional: add a hover effect */
+//  &:hover {
+//    background-color: rgba(220, 20, 60, 0.2); /* Slightly darker crimson on hover */
+//  }
+}
+
+
 // put your custom CSS here!
