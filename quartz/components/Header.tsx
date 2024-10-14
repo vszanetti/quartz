@@ -3,14 +3,17 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return (
     <header>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZESHF4GBRJ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+      {/* Google Tag Manager Script */}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZESHF4GBRJ"></script>
+      <script>
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-      gtag('config', 'G-ZESHF4GBRJ');
-    </script>
+          gtag('config', 'G-ZESHF4GBRJ');
+        `}
+      </script>
       <nav>
         <ul>
           <li>
