@@ -2,7 +2,16 @@
 title: Recent posts
 draft: false
 ---
-### All posts are as follow, from latest to last. You can access the tags [by clicking here](tags).
+### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags).
+<header class="entry-header">
+    <h2 class="entry-title"><a href="amelie" rel="bookmark">Amelie Poulain</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 14, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/design" rel="category tag">Cinema</a>
+        </div></div></header>
+
 <header class="entry-header">
     <h2 class="entry-title"><a href="asonicsignature" rel="bookmark">Sonic signatures</a></h2>
     <div class="entry-details">
