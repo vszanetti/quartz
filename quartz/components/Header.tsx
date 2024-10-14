@@ -3,11 +3,15 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return (
     <header>
-      <script
-        defer
-        src="https://serrazanetti.xyz/script.js" // Use absolute URL
-        data-website-id="95159691-bbc2-42e3-9147-4ebf634e05b7"
-      ></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZESHF4GBRJ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ZESHF4GBRJ');
+    </script>
       <nav>
         <ul>
           <li>

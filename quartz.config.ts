@@ -12,9 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: false,
     analytics: {
-      provider: "umami",
-      host: "serrazanetti.xyz",
-      websiteId: "95159691-bbc2-42e3-9147-4ebf634e05b7",
+      provider: "google",
+      tagId: "G-ZESHF4GBRJ",
     },
     locale: "en-US",
     baseUrl: "https://serrazanetti.xyz/",
