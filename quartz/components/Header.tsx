@@ -14,19 +14,39 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
           `,
         }}
       />
-      <nav>
-        <ul>
-          <li>
-            <a href="/about">About</a>
+      <nav
+        style={{
+          padding: "10px 0",
+        }}
+      >
+        <ul
+          style={{
+            listStyle: "none",
+            padding: 0,
+            margin: 0,
+            display: "flex",
+            justifyContent: "flex-start", // Align items to the left
+          }}
+        >
+          <li style={{ marginRight: "20px" }}>
+            <a href="/about" style={{ textDecoration: "none", color: "crimson" }}>
+              About
+            </a>
           </li>
-          <li>
-            <a href="/posts">Posts</a>
+          <li style={{ marginRight: "20px" }}>
+            <a href="/posts" style={{ textDecoration: "none", color: "crimson" }}>
+              Posts
+            </a>
           </li>
-          <li>
-            <a href="/contact">Contact</a>
+          <li style={{ marginRight: "20px" }}>
+            <a href="/contact" style={{ textDecoration: "none", color: "crimson" }}>
+              Contact
+            </a>
           </li>
-          <li>
-            <a href="/about/privacy">Privacy</a>
+          <li style={{ marginRight: "20px" }}>
+            <a href="/about/privacy" style={{ textDecoration: "none", color: "crimson" }}>
+              Privacy
+            </a>
           </li>
         </ul>
       </nav>
