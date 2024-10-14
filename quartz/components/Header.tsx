@@ -4,8 +4,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return (
     <header>
       <script
-        defer
-        src="http://129.148.30.45:3000/script.js"
+        src="https://serrazanetti.xyz/script.js"
         data-website-id="95159691-bbc2-42e3-9147-4ebf634e05b7"
       ></script>
       <nav>
