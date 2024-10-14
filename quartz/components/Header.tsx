@@ -3,7 +3,6 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return (
     <header>
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZESHF4GBRJ"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
