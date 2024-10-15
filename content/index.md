@@ -15,7 +15,7 @@ If you like what I write, thank you.
 
 <h2>Find me elsewhere</h2>
 
-[Twitter](twitter.com/ocaligvla) • [Mastodon]()
+[Twitter](https://www.twitter.com/ocaligvla) • [Mastodon](https://mastodon.social/@vszanetti)
 
 ***
 
