@@ -44,7 +44,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
             </a>
           </li>
           <li style={{ marginRight: "20px" }}>
-            <a href="/about/privacy" style={{ textDecoration: "none", color: "crimson" }}>
+            <a href="/privacy" style={{ textDecoration: "none", color: "crimson" }}>
               Privacy
             </a>
           </li>
