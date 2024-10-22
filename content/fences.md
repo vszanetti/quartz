@@ -14,6 +14,7 @@ title: Subjects I often write about
 - **[Sent from my iPhone](sentmyfromiphone)**: Using the default Mail app on iOS led me to unwittingly send an email with the signature “Envoyé de mon iPhone,” prompting a reflection on how this seemingly innocuous phrase has transformed from a status symbol into a cringe-worthy marker of pretension and digital etiquette.
 - **[Dreams of convenience](dreamsofconvenience)**: As digital platforms prioritize profit over user experience, the internet feels more suffocating than ever, with personal interactions overshadowed by excessive advertisements and misleading content.
 - **[What about me?](whataboutme)**: The <i>What about me?</i> effect highlights a cognitive bias where online content must cater to specific needs.
+
 **[Other posts on the Internet](tags/internet)**
 
 ## Cinema
@@ -22,3 +23,9 @@ title: Subjects I often write about
 - **[The weight of a soul](manchester)**: In Manchester by the Sea, the raw portrayal of grief illustrates a profound truth: that loss can leave individuals forever altered, navigating life without closure or healing.
 
 **[Other posts on Cinema](tags/cinema)**
+
+## Miscellanea
+- **[An iPhone to end it all?](newiphonese)**: Discussing the various implications brought on by the rumors of the supposed new iPhone SE.
+- **[My smartwatch keeps telling me to stand up](smartwatch)**: Exploring the dynamics between personal autonomy and the demands of smart devices, questioning whether technology should adapt to our routines or if we should conform to its expectations.
+
+**[Other miscellaneous posts](tags/others)**

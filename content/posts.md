@@ -4,6 +4,15 @@ draft: false
 ---
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags).
 <header class="entry-header">
+    <h2 class="entry-title"><a href="newiphonese" rel="bookmark">An iPhone to end it all?</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 22, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/others" rel="category tag">Others</a>
+        </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="smartwatch" rel="bookmark">My smartwatch keeps telling me to stand up</a></h2>
     <div class="entry-details">
         <div class="entry-date">
