@@ -65,7 +65,7 @@ Because one of the most fascinating aspects of brutalism — that uncompromising
             <a href="tags/design" rel="category tag">Design</a>
         </div></div></header>
 
-<p align="justify">I suppose simplicity is a key aspect of tech design. By this I mean that, through evoking an idea of minimalism, clarity, purity or whatever form of “form” speaks to some of the best design principles there are rules to befollowed. But digging deeper into this made me think of some things…
+<p align="justify">I suppose simplicity is a key aspect of tech design. By this, I mean that evoking minimalism, clarity, purity—or whatever ‘form’ speaks to the best design principles — follows certain rules. But digging deeper into this idea has made me reflect on a few things…
 
 </p>
 
