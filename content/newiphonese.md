@@ -7,8 +7,6 @@ tags:
   - others
   - opinion
 ---
-Discussing the complications brought on by the rumors of the supposed new iPhone SE.
-
 <p style="text-align:justify;">Today, as I was spending time on Instagram's "Discovery" page, I stumbled upon a post comparing a supposed iPhone SE 4 with the newly release iPhone 16:</p>
 
 <table>
