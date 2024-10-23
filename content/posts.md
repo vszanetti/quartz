@@ -3,6 +3,7 @@ title: Recent posts
 draft: false
 ---
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags).
+
 <header class="entry-header">
     <h2 class="entry-title"><a href="mystery" rel="bookmark">The joy of unsolved mysteries</a></h2>
     <div class="entry-details">
@@ -29,6 +30,16 @@ draft: false
         </div><div class="entry-topic">
             <a href="tags/others" rel="category tag">Others</a>
         </div></div></header>
+
+<header class="entry-header">
+    <h2 class="entry-title"><a href="chairs" rel="bookmark">The modern-day throne</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 15, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/others" rel="category tag">Others</a>
+        </div></div></header>
+
 
 <header class="entry-header">
     <h2 class="entry-title"><a href="amelie" rel="bookmark">Amelie Poulain</a></h2>
