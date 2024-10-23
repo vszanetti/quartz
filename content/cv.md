@@ -2,4 +2,4 @@
 title: CV
 ---
 
-[Download my CV through here](files/curriculum_vitae.pdf)
+[Download my CV through here](files/cv.pdf)
