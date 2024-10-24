@@ -24,6 +24,13 @@ title: Subjects I often write about
 
 **[Other posts on Cinema](tags/cinema)**
 
+## Architecture
+- **[A defying beauty](brutalism)**: An advocation for brutalism, celebrating its raw, functional aesthetic and democratic origins. A reflection on how brutalist structures age with dignity and why their imposing forms continue to provoke strong emotional responses.
+- **[Dimly rit rooms and office work](officelights)**: The obsession with bright and sterile lights isn’t a mere aesthetic choice from modern offices but a remnant of industrial-age control mechanisms, masquerading as a productivity enhancement that can instead negatively impact productivity and creativity.
+
+**[Other posts on Architecture](tags/architecture)**
+
+
 ## Miscellanea
 - **[An iPhone to end it all?](newiphonese)**: Discussing the various implications brought on by the rumors of the supposed new iPhone SE.
 - **[My smartwatch keeps telling me to stand up](smartwatch)**: Exploring the dynamics between personal autonomy and the demands of smart devices, questioning whether technology should adapt to our routines or if we should conform to its expectations.

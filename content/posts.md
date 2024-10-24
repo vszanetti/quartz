@@ -5,6 +5,17 @@ draft: false
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags).
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="officelights" rel="bookmark">The joy of unsolved mysteries</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 23, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/architecture" rel="category tag">Architecture</a>
+            <a href="tags/design" rel="category tag">Design</a>
+            <a href="tags/others" rel="category tag">Others</a>
+        </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="mystery" rel="bookmark">The joy of unsolved mysteries</a></h2>
     <div class="entry-details">
         <div class="entry-date">
@@ -37,6 +48,7 @@ draft: false
         <div class="entry-date">
             <a>October 15, 2024</a>
         </div><div class="entry-topic">
+            <a href="tags/design" rel="category tag">Design</a>
             <a href="tags/others" rel="category tag">Others</a>
         </div></div></header>
 

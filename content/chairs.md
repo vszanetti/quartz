@@ -3,7 +3,7 @@ title: The modern-day throne
 draft: false
 date: 2024-10-16
 tags:
-  - other
+  - others
   - design
 ---
 
