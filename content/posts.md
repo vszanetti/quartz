@@ -5,7 +5,7 @@ draft: false
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags).
 
 <header class="entry-header">
-    <h2 class="entry-title"><a href="officelights" rel="bookmark">The joy of unsolved mysteries</a></h2>
+    <h2 class="entry-title"><a href="officelights" rel="bookmark">Dimly rit rooms and office work</a></h2>
     <div class="entry-details">
         <div class="entry-date">
             <a>October 23, 2024</a>
