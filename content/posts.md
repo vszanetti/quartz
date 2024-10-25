@@ -2,7 +2,7 @@
 title: Recent posts
 draft: false
 ---
-### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags).
+### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags). I've chosen to separate any technical writing such as guides in [this section](technical).
 
 <header class="entry-header">
     <h2 class="entry-title"><a href="officelights" rel="bookmark">The joy of unsolved mysteries</a></h2>
