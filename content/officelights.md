@@ -1,5 +1,5 @@
 ---
-title: Dimly rit rooms and office work
+title: Dimly lit rooms and office work
 draft: false
 date: 2024-10-24
 tags:
