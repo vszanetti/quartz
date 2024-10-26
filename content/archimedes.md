@@ -5,6 +5,7 @@ date: 2024-10-25
 tags:
   - design
   - others
+  - apple
 ---
 
 <p style="text-align:justify;">Ever since I've made the switch from traditional "writing" software one question persisted: <i>what makes the perfect markdown editor for Mac</i>? This isn't just a pursuit of convenience but a journey of aesthetics, form, rhythm.</p>
@@ -19,7 +20,7 @@ tags:
 
 <p style="text-align:justify;">Such a tool should, consequently, reverberate the instinctive elegance of macOS but not as an outsider, rather as if born within its architecture. So I went after a Markdown editor that feels timeless on the Mac, with an interface that could have been present from the very first OS. It should embody that signature restraint, that invisible hand that guides our words and yet remains itself invisible: a silent witness to every letter pressed in the writer's sanctuary.</p>
 
-<p style="text-align:justify;">After wandering through a maze of Markdown editors, each promising the allure of productivity and elegance, I happen to discover a software that felt like finding that perfect tool seemingly crafted for the macOS ecosystem itself. [Archimedes](https://furnacecreek.org/archimedes/), from Furnace Creek Software, happened to fulfill what every Markdown writer dreams of in a Mac-native experience.</p>
+<p style="text-align:justify;">After wandering through a maze of Markdown editors, each promising the allure of productivity and elegance, I happen to discover a software that felt like finding that perfect tool seemingly crafted for the macOS ecosystem itself. <a href="https://furnacecreek.org/archimedes/">Archimedes</a>, from Furnace Creek Software, happened to fulfill what every Markdown writer dreams of in a Mac-native experience.</p>
 
 <p style="text-align:justify;">Before I delve further into this, I must make it clear that this isn't a paid review. Just as in my piece on the [Menu Bar](menubar), this is an ode to a tool that embodies everything I’ve looked for &mdash; a poetic union of function and form that makes writing, especially mathematical and technical writing, an intuitive joy. There’s a sense that Archimedes belongs on macOS, as if it had always been there, just waiting to be uncovered. And for those who like to weave the practicality of Markdown with the sophistication of LaTeX, Archimedes doesn’t merely meet expectations; it surpasses them.</p>
 
