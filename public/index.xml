@@ -365,8 +365,9 @@
 &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;./files/miniguidetolatex.pdf&quot; class=&quot;internal alias&quot; data-slug=&quot;files/miniguidetolatex.pdf&quot;&gt;Miniguide to Latex&lt;/a&gt;&lt;/strong&gt;: A short and concise beginners approach to LaTeX.
 Disponível em Português &lt;a href=&quot;./files/miniguiaparaaprenderlatex.pdf&quot; class=&quot;internal alias&quot; data-slug=&quot;files/miniguiaparaaprenderlatex.pdf&quot;&gt;aqui&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;./files/miniguiaparac.pdf&quot; class=&quot;internal alias&quot; data-slug=&quot;files/miniguiaparac.pdf&quot;&gt;Miniguia para programar em C&lt;/a&gt;&lt;/strong&gt;: A miniguide on the basics of C programming, based on a class I had in college. As of now it is only available in Portuguese.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;./files/pca_tecnico.pdf&quot; class=&quot;internal alias&quot; data-slug=&quot;files/pca_tecnico.pdf&quot;&gt;Implementing the PCA algorithm through Python&lt;/a&gt;&lt;/strong&gt;: An implementation of the Principal Component Analysis (PCA) for image compression by applying the algorithm to the red, green, and blue channels of a BMP image separately, then reconstructing and displaying the compressed result.&lt;/li&gt;
 &lt;/ul&gt;</description>
-    <pubDate>Fri, 25 Oct 2024 23:25:13 GMT</pubDate>
+    <pubDate>Fri, 25 Oct 2024 23:25:32 GMT</pubDate>
   </item><item>
     <title>What makes the perfect Markdown editor for the Mac?</title>
     <link>https://serrazanetti.xyz/archimedes</link>
