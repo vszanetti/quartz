@@ -5,6 +5,15 @@ draft: false
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags). I've chosen to separate any technical writing such as guides in [this section](technical).
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="archimedes" rel="bookmark">What makes the perfect Markdown editor for the Mac?</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 25, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/design" rel="category tag">Design</a>
+        </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="officelights" rel="bookmark">Dimly lit rooms and office work</a></h2>
     <div class="entry-details">
         <div class="entry-date">
