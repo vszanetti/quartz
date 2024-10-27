@@ -9,7 +9,7 @@ I speak English, Portuguese, Italian and some French. My main interests are arch
 I am also fond of programming, which led me to write a thing or another such as:
 
 - **[Spotweet](https://github.com/vszanetti/spotweet)**: a python application that reads from the Spotify API and tweets what the user is currently listening to.
-- **[PCA - Linear Algebra](https://github.com/vszanetti/pca_algebra)**: a python code that implements Principal Component Analysis (PCA) for image compression by applying the algorithm to the red, green, and blue channels of a BMP image separately, then reconstructing and displaying the compressed result.
+- **[PCA - Linear Algebra](https://github.com/vszanetti/pca_algebra)**: an implementation of the Principal Component Analysis (PCA) for image compression by applying the algorithm to the red, green, and blue channels of a BMP image separately, then reconstructing and displaying the compressed result.
 
 If you like what I write, thank you.
 
