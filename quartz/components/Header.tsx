@@ -3,7 +3,6 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return (
     <header>
-      <meta name="google-site-verification" content="bsmU_gJb4IYVp5rKPSAtqzbZOMxCWA_SF8Sp3sbevpI" />
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZESHF4GBRJ"></script>
       <script
         dangerouslySetInnerHTML={{
