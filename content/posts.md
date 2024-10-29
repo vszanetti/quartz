@@ -14,7 +14,7 @@ draft: false
         </div></div></header>
 
 <header class="entry-header">
-    <h2 class="entry-title"><a href="imac" rel="bookmark">Why won't Apple bring the M chips to their iPhones?</a></h2>
+    <h2 class="entry-title"><a href="mchipiphone" rel="bookmark">Why won't Apple bring the M chips to their iPhones?</a></h2>
     <div class="entry-details">
         <div class="entry-date">
             <a>October 28, 2024</a>
