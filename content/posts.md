@@ -5,6 +5,15 @@ draft: false
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags). I've chosen to separate any technical writing such as guides in [this section](technical).
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="imac" rel="bookmark">The iMac is the perfect computer I'll never buy</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 28, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/opinion" rel="category tag">Opinion</a>
+        </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="djvu" rel="bookmark">The case for .djvu files</a></h2>
     <div class="entry-details">
         <div class="entry-date">
