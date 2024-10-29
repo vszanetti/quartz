@@ -14,6 +14,15 @@ draft: false
         </div></div></header>
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="imac" rel="bookmark">Why won't Apple bring the M chips to their iPhones?</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 28, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/computers" rel="category tag">Computers</a>
+        </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="djvu" rel="bookmark">The case for .djvu files</a></h2>
     <div class="entry-details">
         <div class="entry-date">

@@ -1,6 +1,6 @@
 ---
 title: Why won't Apple bring the M chips to their iPhones?
-draft: true
+draft: false
 date: 2024-28-10
 tags:
   - computers
