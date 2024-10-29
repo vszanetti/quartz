@@ -35,19 +35,6 @@
 Note: Pricing data as of 28 October 2024. Exchange rates and exact prices may vary; local taxes and import duties contribute to final retail prices but do not fully account for the price differentials discussed.&lt;/p&gt;</description>
     <pubDate>Tue, 29 Oct 2024 01:02:45 GMT</pubDate>
   </item><item>
-    <title>Why won&#039;t Apple bring the M chips to their iPhones?</title>
-    <link>https://serrazanetti.xyz/mchipiphone</link>
-    <guid>https://serrazanetti.xyz/mchipiphone</guid>
-    <description>&lt;p style=&quot;text-align:justify;&quot;&gt;When Apple revolutionized the market with its M-series chips, some wondered why these processors hadn&#039;t made their way onto their phones. While it may seem logical to integrate the M chips into Apple’s iPhone, complex technical challenges, practical considerations and strategic priorities make this move both impractical and unnecessary.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;The relationship between A-series and the M chips reveals that iPhones already benefit from the same core architecture and instruction compatibility as the M-series chips, but these essentially are scaled up through additional CPU cores, stronger GPU configurations and broader memory controllers. This means iPhones aren&#039;t missing out on some revolutionary technology, but rather running optimized versions of the same core design.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;The physical constraints present the most immediate and insurmountable challenge, as the M-series chips require substantially more silicon real estate than their counterparts, since they&#039;re engineered for devices with generous internal space. This means that fitting an M chip into an iPhone&#039;s tightly packed chassis would require a complete redesign of the device&#039;s internal architecture and a massive overhaul of manufacturing processes — such retooling would raise costs on the production line that would inevitably impact consumer pricing negatively.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Thermal management also presents an equally formidable obstacle, since the M chips generate significant heat during operation and require sophisticated cooling solutions. Even iPads, with their larger form factors, frequently experience thermal throttling when pushing M-series chips to their limits. The iPhone&#039;s compact design lacks the thermal dissipation capacity to handle heat output without severe throttling or potential hardware damage; a thermal solution within its size constraints would require engineering breakthroughs that currently don&#039;t exist.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;The power envelope poses another critical limitation: M-series chips demand substantially more energy to deliver their enhanced performance capabilities. Smartphone batteries, optimized for size and weight considerations cannot sustain such power requirements without dramatic reductions in battery life, and while throttling could theoretically address both thermal and power concerns, such restrictions would effectively negate the benefits of this integration potentially render it unfeasible.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Also, Apple&#039;s chip development strategy actually prioritizes A-series innovations. New architectural improvements often debut in iPhone chips before migrating to the M-series line, and this approach allows them to perfect new technologies at scale in their highest-volume product while maintaining the iPhone&#039;s position at the vanguard of mobile computing innovation. The current chips are already approaching or exceeding the performance of earlier M processors within their power and thermal constraints, demonstrating the effectiveness of this strategy. But yes, there could eventually be an &quot;iPhone Ultra&quot; targeting professional users with enhanced computing capabilities — although this would likely emerge only after fundamental technical challenges have been resolved.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Additionally, the market dynamics further reinforce Apple&#039;s current approach as most iPhone users primarily engage in tasks like social media browsing, photography, messaging, and web surfing — activities to which the current A-series chips already provide more than adequate performance.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;For now, maintaining separate chip families optimized for different device categories represents the most technically effective strategy. While possible, such a change would create an engineering nightmare while failing to deliver practical benefits for most users.&lt;/p&gt;</description>
-    <pubDate>Tue, 29 Oct 2024 00:02:05 GMT</pubDate>
-  </item><item>
     <title>Minimalism is when you buy more stuff</title>
     <link>https://serrazanetti.xyz/minimalism_more_stuff</link>
     <guid>https://serrazanetti.xyz/minimalism_more_stuff</guid>
@@ -189,24 +176,6 @@ Note: Pricing data as of 28 October 2024. Exchange rates and exact prices may va
 &lt;p style=&quot;text-align:justify;&quot;&gt;In the end, this could really just be the last smartphone I ever buy.&lt;/p&gt;</description>
     <pubDate>Mon, 28 Oct 2024 00:03:04 GMT</pubDate>
   </item><item>
-    <title>I, myself</title>
-    <link>https://serrazanetti.xyz/aboutme</link>
-    <guid>https://serrazanetti.xyz/aboutme</guid>
-    <description>&lt;p&gt;Hi there! I’m Vitor Zanetti. Long story short: I consider myself to be urbanophilic, a craft beer enthusiast; double espresso appreciator and a David Lynch enjoyer.&lt;/p&gt;
-&lt;p&gt;I speak English, Portuguese, Italian and some French. My main interests are architecture, design, computers, beer, collecting, LEGOs and cats.&lt;/p&gt;
-&lt;p&gt;I am also fond of programming, which led me to write a thing or another such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/vszanetti/spotweet&quot; class=&quot;external&quot;&gt;Spotweet&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/strong&gt;: a python application that reads from the Spotify API and tweets what the user is currently listening to.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/vszanetti/pca_algebra&quot; class=&quot;external&quot;&gt;PCA - Linear Algebra&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/strong&gt;: an implementation of the Principal Component Analysis (PCA) for image compression by applying the algorithm to the red, green, and blue channels of a BMP image separately, then reconstructing and displaying the compressed result.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you like what I write, thank you.&lt;/p&gt;
-&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#contact&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;You can contact me via e-mail at &lt;code&gt;contact@serrazanetti.xyz&lt;/code&gt;, via &lt;a href=&quot;https://mastodon.social/@vszanetti&quot; class=&quot;external&quot;&gt;Mastodon&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; or through my &lt;a href=&quot;https://ko-fi.com/vitorzanetti&quot; class=&quot;external&quot;&gt;ko-fi&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; page.&lt;/p&gt;
-&lt;p&gt;For work-related contact, please email me at &lt;code&gt;work@serrazanetti.xyz&lt;/code&gt;. &lt;a href=&quot;./files/whyhireme.pdf&quot; class=&quot;internal alias&quot; data-slug=&quot;files/whyhireme.pdf&quot;&gt;Why hire me?&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;find-me-elsewhere&quot;&gt;Find me elsewhere&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#find-me-elsewhere&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/ocaligvla&quot; class=&quot;external&quot;&gt;Twitter&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; • &lt;a href=&quot;https://mastodon.social/@vszanetti&quot; class=&quot;external&quot;&gt;Mastodon&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    <pubDate>Sun, 27 Oct 2024 21:06:17 GMT</pubDate>
-  </item><item>
     <title>Welcome</title>
     <link>https://serrazanetti.xyz/</link>
     <guid>https://serrazanetti.xyz/</guid>
@@ -303,6 +272,225 @@ Disponível em Português &lt;a href=&quot;./files/miniguiaparaaprenderlatex.pdf
 &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;./files/pca.pdf&quot; class=&quot;internal alias&quot; data-slug=&quot;files/pca.pdf&quot;&gt;Implementing the PCA algorithm through Python&lt;/a&gt;&lt;/strong&gt;: An implementation of the Principal Component Analysis (PCA) for image compression by applying the algorithm to the red, green, and blue channels of a BMP image separately, then reconstructing and displaying the compressed result.&lt;/li&gt;
 &lt;/ul&gt;</description>
     <pubDate>Sun, 27 Oct 2024 18:13:57 GMT</pubDate>
+  </item><item>
+    <title>Recent posts</title>
+    <link>https://serrazanetti.xyz/posts</link>
+    <guid>https://serrazanetti.xyz/posts</guid>
+    <description>&lt;h3 id=&quot;all-posts-are-as-follow-from-latest-to-last-you-can-access-popular-topics-by-clicking-here-or-all-tags-through-here-ive-chosen-to-separate-any-technical-writing-such-as-guides-in-this-section&quot;&gt;All posts are as follow, from latest to last. You can access popular topics &lt;a href=&quot;./fences&quot; class=&quot;internal alias&quot; data-slug=&quot;fences&quot;&gt;by clicking here&lt;/a&gt; or all tags &lt;a href=&quot;./tags&quot; class=&quot;internal alias&quot; data-slug=&quot;tags&quot;&gt;through here&lt;/a&gt;. I’ve chosen to separate any technical writing such as guides in &lt;a href=&quot;./technical&quot; class=&quot;internal alias&quot; data-slug=&quot;technical&quot;&gt;this section&lt;/a&gt;.&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#all-posts-are-as-follow-from-latest-to-last-you-can-access-popular-topics-by-clicking-here-or-all-tags-through-here-ive-chosen-to-separate-any-technical-writing-such-as-guides-in-this-section&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;the-imac-is-the-perfect-computer-ill-never-buy&quot;&gt;&lt;a href=&quot;./imac&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;imac&quot;&gt;The iMac is the perfect computer I&#039;ll never buy&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#the-imac-is-the-perfect-computer-ill-never-buy&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 28, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/opinion&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/opinion&quot;&gt;Opinion&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;the-case-for-djvu-files&quot;&gt;&lt;a href=&quot;./djvu&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;djvu&quot;&gt;The case for .djvu files&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#the-case-for-djvu-files&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 26, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/computers&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/computers&quot;&gt;Computers&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;what-makes-the-perfect-markdown-editor-for-the-mac&quot;&gt;&lt;a href=&quot;./archimedes&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;archimedes&quot;&gt;What makes the perfect Markdown editor for the Mac?&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#what-makes-the-perfect-markdown-editor-for-the-mac&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 25, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/design&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/design&quot;&gt;Design&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;dimly-lit-rooms-and-office-work&quot;&gt;&lt;a href=&quot;./officelights&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;officelights&quot;&gt;Dimly lit rooms and office work&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#dimly-lit-rooms-and-office-work&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 23, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/architecture&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/architecture&quot;&gt;Architecture&lt;/a&gt;
+            &lt;a href=&quot;./tags/design&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/design&quot;&gt;Design&lt;/a&gt;
+            &lt;a href=&quot;./tags/others&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/others&quot;&gt;Others&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;the-joy-of-unsolved-mysteries&quot;&gt;&lt;a href=&quot;./mystery&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;mystery&quot;&gt;The joy of unsolved mysteries&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#the-joy-of-unsolved-mysteries&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 23, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/others&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/others&quot;&gt;Others&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;an-iphone-to-end-it-all&quot;&gt;&lt;a href=&quot;./newiphonese&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;newiphonese&quot;&gt;An iPhone to end it all?&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#an-iphone-to-end-it-all&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 22, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/others&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/others&quot;&gt;Others&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;my-smartwatch-keeps-telling-me-to-stand-up&quot;&gt;&lt;a href=&quot;./smartwatch&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;smartwatch&quot;&gt;My smartwatch keeps telling me to stand up&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#my-smartwatch-keeps-telling-me-to-stand-up&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 21, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/others&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/others&quot;&gt;Others&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;the-modern-day-throne&quot;&gt;&lt;a href=&quot;./chairs&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;chairs&quot;&gt;The modern-day throne&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#the-modern-day-throne&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 15, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/design&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/design&quot;&gt;Design&lt;/a&gt;
+            &lt;a href=&quot;./tags/others&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/others&quot;&gt;Others&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;amelie-poulain&quot;&gt;&lt;a href=&quot;./amelie&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;amelie&quot;&gt;Amelie Poulain&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#amelie-poulain&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 14, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/design&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/design&quot;&gt;Cinema&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;sonic-signatures&quot;&gt;&lt;a href=&quot;./asonicsignature&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;asonicsignature&quot;&gt;Sonic signatures&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#sonic-signatures&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 11, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/design&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/design&quot;&gt;Design&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;sent-from-my-iphone&quot;&gt;&lt;a href=&quot;./sentmyfromiphone&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;sentmyfromiphone&quot;&gt;Sent from my iPhone&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#sent-from-my-iphone&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;October 03, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/others&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/others&quot;&gt;Others&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;i-wish-convincing-people-with-arguments-was-real&quot;&gt;&lt;a href=&quot;./arguments&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;arguments&quot;&gt;I wish convincing people with arguments was real&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#i-wish-convincing-people-with-arguments-was-real&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;September 28, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/internet&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/internet&quot;&gt;Internet&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;minimalism-is-when-you-buy-more-stuff&quot;&gt;&lt;a href=&quot;./minimalism_more_stuff&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;minimalism_more_stuff&quot;&gt;Minimalism is when you buy more stuff&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#minimalism-is-when-you-buy-more-stuff&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;September 27, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/minimalism&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/minimalism&quot;&gt;Minimalism&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;the-weight-of-a-soul&quot;&gt;&lt;a href=&quot;./manchester&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;manchester&quot;&gt;The weight of a soul&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#the-weight-of-a-soul&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;September 16, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/cinema&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/cinema&quot;&gt;Cinema&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;the-gamer-aesthetic-is-beyond-awful&quot;&gt;&lt;a href=&quot;./gamer&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;gamer&quot;&gt;The &quot;gamer&quot; aesthetic is beyond awful&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#the-gamer-aesthetic-is-beyond-awful&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;August 17, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/design&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/design&quot;&gt;Design&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;useless-spaces&quot;&gt;&lt;a href=&quot;./spaces&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;spaces&quot;&gt;Useless spaces&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#useless-spaces&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;August 13, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/architecture&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/architecture&quot;&gt;Architecture&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;what-about-me&quot;&gt;&lt;a href=&quot;./whataboutme&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;whataboutme&quot;&gt;What about me?&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#what-about-me&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;August 11, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/internet&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/internet&quot;&gt;Internet&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;dreams-of-convenience&quot;&gt;&lt;a href=&quot;./dreamsofconvenience&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;dreamsofconvenience&quot;&gt;Dreams of convenience&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#dreams-of-convenience&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;August 08, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/internet&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/internet&quot;&gt;Internet&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+      &lt;h2 class=&quot;entry-title&quot; id=&quot;i-love-the-menu-bar&quot;&gt;&lt;a href=&quot;./menubar&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;menubar&quot;&gt;I love the menu bar&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#i-love-the-menu-bar&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+      &lt;div class=&quot;entry-details&quot;&gt;
+          &lt;div class=&quot;entry-date&quot;&gt;
+              &lt;a&gt;August 05, 2024&lt;/a&gt;
+              &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+                &lt;a href=&quot;./tags/computers&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/computers&quot;&gt;Computers&lt;/a&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+      &lt;h2 class=&quot;entry-title&quot; id=&quot;sailing-the-high-seas&quot;&gt;&lt;a href=&quot;./piracy&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;piracy&quot;&gt;Sailing the high seas&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#sailing-the-high-seas&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+      &lt;div class=&quot;entry-details&quot;&gt;
+          &lt;div class=&quot;entry-date&quot;&gt;
+              &lt;a&gt;August 04, 2024&lt;/a&gt;
+              &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+                &lt;a href=&quot;./tags/ethics&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/ethics&quot;&gt;Ethics&lt;/a&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+      &lt;h2 class=&quot;entry-title&quot; id=&quot;you-dont-need-it-but-maybe-you-do&quot;&gt;&lt;a href=&quot;./youdontneedit&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;youdontneedit&quot;&gt;You don&#039;t need it, but maybe you do&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#you-dont-need-it-but-maybe-you-do&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+      &lt;div class=&quot;entry-details&quot;&gt;
+          &lt;div class=&quot;entry-date&quot;&gt;
+              &lt;a&gt;July 21, 2024&lt;/a&gt;
+              &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+                &lt;a href=&quot;./tags/others&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/others&quot;&gt;Others&lt;/a&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+    &lt;h2 class=&quot;entry-title&quot; id=&quot;a-defying-beauty&quot;&gt;&lt;a href=&quot;./brutalism&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;brutalism&quot;&gt;A defying beauty&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#a-defying-beauty&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;div class=&quot;entry-details&quot;&gt;
+        &lt;div class=&quot;entry-date&quot;&gt;
+            &lt;a&gt;July 06, 2024&lt;/a&gt;
+        &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+            &lt;a href=&quot;./tags/architecture&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/architecture&quot;&gt;Architecture&lt;/a&gt;
+        &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+      &lt;h2 class=&quot;entry-title&quot; id=&quot;a-blessing-for-the-commoners&quot;&gt;&lt;a href=&quot;./blessing&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;blessing&quot;&gt;A blessing for the commoners&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#a-blessing-for-the-commoners&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+      &lt;div class=&quot;entry-details&quot;&gt;
+          &lt;div class=&quot;entry-date&quot;&gt;
+              &lt;a&gt;June 28, 2024&lt;/a&gt;
+              &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+                &lt;a href=&quot;./tags/humour&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/humour&quot;&gt;Humour&lt;/a&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;header class=&quot;entry-header&quot;&gt;
+      &lt;h2 class=&quot;entry-title&quot; id=&quot;la-la-land-is-not-for-you-anyway&quot;&gt;&lt;a href=&quot;./lalaland&quot; rel=&quot;bookmark&quot; class=&quot;internal alias&quot; data-slug=&quot;lalaland&quot;&gt;La La Land is not for you, anyway&lt;/a&gt;&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#la-la-land-is-not-for-you-anyway&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+      &lt;div class=&quot;entry-details&quot;&gt;
+          &lt;div class=&quot;entry-date&quot;&gt;
+              &lt;a&gt;June 06, 2024&lt;/a&gt;
+              &lt;/div&gt;&lt;div class=&quot;entry-topic&quot;&gt;
+                &lt;a href=&quot;./tags/humour&quot; rel=&quot;category tag&quot; class=&quot;internal alias&quot; data-slug=&quot;tags/humour&quot;&gt;Humour&lt;/a&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/header&gt;</description>
+    <pubDate>Sat, 26 Oct 2024 18:46:00 GMT</pubDate>
+  </item><item>
+    <title>The case for .djvu files</title>
+    <link>https://serrazanetti.xyz/djvu</link>
+    <guid>https://serrazanetti.xyz/djvu</guid>
+    <description>&lt;p style=&quot;text-align:justify;&quot;&gt;In the 1990s, AT&amp;#x26;T birthed a visionary file format named DjVu. In retrospect, this appears more as a philosophical statement about digital documents than mere technology — while conventional formats remained tethered to paper&#039;s physical constraints, DjVu envisioned a revolutionary approach to a world where documents could exist in a truly digital form, breaking free from the limitations of print-based thinking while paradoxically contributing to its limited adoption in mainstream computing environments.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;DjVu&#039;s technical brilliance lies in its sophisticated multi-layer compression strategy, representing a fundamental reimagining of how digital documents should be structured and stored. Rather than simply compacting files, it dismantles, refines, and redefines them through a sophisticated pipeline that separates content into distinct layers — background, foreground, and mask — each optimized with precision. The background and foreground layers undergo wavelet compression, while the mask layer, typically containing text elements, employs pattern recognition and substitution techniques reminiscent of JBIG2 compression. This layered approach enables DjVu to achieve remarkable compression ratios, condensing color magazine pages to approximately 70 KB, technical documents to around 40 KB, and ancient manuscripts to roughly 100 KB to the point it &lt;i&gt;renders&lt;/i&gt; traditional PDF files wasteful by comparison.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;The format&#039;s technical sophistication is anchored in IW44, a proprietary wavelet-based compression algorithm that transforms document content into a hierarchical structure of progressive refinement. This innovative algorithm processes image data through multiple resolution layers, creating a hierarchical representation where each successive layer contains increasingly finer details of the image. Unlike PDF&#039;s monolithic approach to document storage, DjVu&#039;s segregated layer treatment enables highly efficient memory utilization and progressive loading capabilities. Documents are rendered in tiles, initially displaying coarse details before progressively refining them as needed, while separate memory caches for different layer types ensure smooth performance even when handling large documents. This architecture is particularly valuable for web-based document delivery, where bandwidth and loading times are crucial considerations.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;Beyond its core compression capabilities, DjVu implements a sophisticated suite of features that enhance both its utility and accessibility. The format supports OCR technology for text searching and extraction, bi-level image optimization for crisp rendering, and lossless encoding of critical document elements. Its technical architecture accommodates high-resolution images, 24-bit color depth, and extensive page dimensions while maintaining remarkably compact file sizes. The format&#039;s support for metadata and annotations, combined with its efficient memory management and progressive loading mechanisms, creates a versatile platform for digital document handling that remains impressive even by today&#039;s standards.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;Prior to PDF&#039;s standardization in 2008, DjVu stood as a beacon of open-source innovation, particularly in the realm of digital libraries and archival systems. Its integration with platforms like Greenstone and the Internet Archive demonstrated the potential for a future where digital documents could break free from print-based paradigms. However, regardless of its technical elegance and superior compression capabilities (achieving ratios up to ten times better than PDF), DjVu found itself increasingly marginalized due to a trinity of practical challenges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scarcity of software support, as it never achieved the widespread tool support that PDF did;&lt;/li&gt;
+&lt;li&gt;Rather than using computation resources to viewing a given document, the emphasis of DjVu is on document creation — a trade-off that requires significant upfront resources;&lt;/li&gt;
+&lt;li&gt;The overwhelming momentum of PDF’s self-reinforcing ecosystem seemed impossible to penetrate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;If I were to draw a linguistic parallel, this certainly mirrors choosing Interlingua over English as a second language: technical superiority alone proved insufficient against the power of widespread adoption.&lt;/p&gt;
+&lt;blockquote&gt;While PDF is essentially digitized paper, DjVu represents an ambitious attempt to reinvent how documents could exist in the digital age.&lt;/blockquote&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;Although its prominence has diminished over the years, this format stands as a testament to the possibility of thinking differently about digital documents, serving as a quiet rebellion against the conventional and often bloated document storage paradigms. Despite the PDF&#039;s dominance as the de facto standard, DjVu&#039;s unique approach to document storage and delivery, prioritizing efficiency and compression while challenging traditional notions of digital document formats, continues to remind us of the potential for alternative approaches to optimize document handling in the digital realm as it continues to hold a niche in digital libraries and specialized applications.&lt;/p&gt;</description>
+    <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
