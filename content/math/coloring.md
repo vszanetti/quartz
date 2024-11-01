@@ -1,7 +1,7 @@
 ---
 title: "Coloring with linear transformations"
 draft: false
-date: 2024-10-31
+date: 2024-11-02
 tags:
   - math
   - computers
