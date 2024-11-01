@@ -5,10 +5,19 @@ draft: false
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags). I've chosen to separate any technical writing such as guides in [this section](technical).
 
 <header class="entry-header">
-    <h2 class="entry-title"><a href="math/coloring" rel="bookmark">Coloring with linear transformations</a></h2>
+    <h2 class="entry-title"><a href="math/bentparabola" rel="bookmark">Got a bent parabola?</a></h2>
     <div class="entry-details">
         <div class="entry-date">
             <a>November 1, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/math" rel="category tag">Math</a>
+        </div></div></header>
+
+<header class="entry-header">
+    <h2 class="entry-title"><a href="math/coloring" rel="bookmark">Coloring with linear transformations</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>October 31, 2024</a>
         </div><div class="entry-topic">
             <a href="tags/math" rel="category tag">Math</a>
         </div></div></header>

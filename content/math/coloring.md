@@ -1,7 +1,7 @@
 ---
 title: "Coloring with linear transformations"
 draft: false
-date: 2024-11-02
+date: 2024-11-01
 tags:
   - math
   - computers
@@ -77,9 +77,6 @@ def analyze_color_distribution(original_img, transformed_img):
 
 import matplotlib.pyplot as plt
 
-# Example original image and new image (modify as needed for your use case)
-# Assuming `original_image` and `new_image` are already loaded and modified by your code.
-
 def compare_images(original_image, transformed_image):
     """Compare original and modified images side by side."""
     # Create a figure with two subplots
@@ -107,7 +104,7 @@ def main():
     analyze_color_distribution(original_img, transformed_img)
 
     # Compares both images
-    compare_images(original_img, transformed_img)  # Corrected variable name
+    compare_images(original_img, transformed_img)
 
 
 if __name__ == "__main__":
