@@ -1,4 +1,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://serrazanetti.xyz/aboutme</loc>
+    <lastmod>2024-10-27T21:06:17.601Z</lastmod>
+  </url><url>
+    <loc>https://serrazanetti.xyz/amelie</loc>
+    <lastmod>2024-10-14T03:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://serrazanetti.xyz/archimedes</loc>
     <lastmod>2024-10-25T00:00:00.000Z</lastmod>
   </url><url>
@@ -35,26 +41,38 @@
     <loc>https://serrazanetti.xyz/gamer</loc>
     <lastmod>2024-08-18T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://serrazanetti.xyz/imac</loc>
+    <lastmod>2024-11-01T02:17:52.465Z</lastmod>
+  </url><url>
     <loc>https://serrazanetti.xyz/</loc>
     <lastmod>2024-10-27T21:06:14.134Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/lalaland</loc>
     <lastmod>2024-06-11T03:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://serrazanetti.xyz/lessonsfromwindows8</loc>
+    <lastmod>2024-11-01T02:17:52.476Z</lastmod>
+  </url><url>
     <loc>https://serrazanetti.xyz/manchester</loc>
     <lastmod>2024-09-16T03:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://serrazanetti.xyz/math/coloring</loc>
+    <lastmod>2024-10-31T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://serrazanetti.xyz/mchipiphone</loc>
+    <lastmod>2024-11-01T02:17:52.494Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/menubar</loc>
     <lastmod>2024-08-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/minimalism_more_stuff</loc>
-    <lastmod>2024-10-28T00:12:12.369Z</lastmod>
+    <lastmod>2024-11-01T02:17:52.504Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/mystery</loc>
-    <lastmod>2024-10-28T00:12:12.367Z</lastmod>
+    <lastmod>2024-11-01T02:17:52.505Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/newiphonese</loc>
-    <lastmod>2024-10-28T00:03:04.859Z</lastmod>
+    <lastmod>2024-11-01T02:17:52.507Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/officelights</loc>
     <lastmod>2024-10-24T00:00:00.000Z</lastmod>
@@ -63,7 +81,7 @@
     <lastmod>2024-08-05T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/posts</loc>
-    <lastmod>2024-10-29T12:24:21.749Z</lastmod>
+    <lastmod>2024-10-29T17:08:44.459Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/privacy</loc>
     <lastmod>2024-10-14T20:34:00.332Z</lastmod>
@@ -72,7 +90,7 @@
     <lastmod>2024-10-03T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/smartwatch</loc>
-    <lastmod>2024-10-28T00:03:04.890Z</lastmod>
+    <lastmod>2024-11-01T02:17:52.535Z</lastmod>
   </url><url>
     <loc>https://serrazanetti.xyz/spaces</loc>
     <lastmod>2024-08-14T00:00:00.000Z</lastmod>
@@ -85,13 +103,4 @@
   </url><url>
     <loc>https://serrazanetti.xyz/youdontneedit</loc>
     <lastmod>2024-07-21T03:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://serrazanetti.xyz/mchipiphone</loc>
-    <lastmod>2024-10-29T01:07:06.327Z</lastmod>
-  </url><url>
-    <loc>https://serrazanetti.xyz/imac</loc>
-    <lastmod>2024-10-29T21:08:53.768Z</lastmod>
-  </url><url>
-    <loc>https://serrazanetti.xyz/lessonsfromwindows8</loc>
-    <lastmod>2024-10-29T17:07:45.791Z</lastmod>
   </url></urlset>

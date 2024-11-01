@@ -14,6 +14,12 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
           `,
         }}
       />
+      <script
+        type="text/javascript"
+        id="MathJax-script"
+        async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+      ></script>
       <nav
         style={{
           padding: "10px 0",
