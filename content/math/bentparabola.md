@@ -9,7 +9,7 @@ tags:
 
 In college, I faced an interesting problem in a geometry class: my professor had drawn a "tilted" parabola and asked us how to solve it. My initial thought was to manipulate the parabola's equation directly to account for the tilt, but the approach we were taught was far more elegant: instead of rotating the parabola itself, we could rotate the entire coordinate system using linear algebra, which brought a new perspective on the solution. While we hadn't formally covered this concept yet, it simplified the calculations and revealed a deeper connection between geometric transformations and linear algebra.
 
-Consider a standard parabola $y = ax^2$. Observe that, if rotated, this parabola remains unchanged in shape, as if we've just "tilted our head". Mathematically, this transformation can be expressed using a rotation matrix, $R(\theta)$:
+Consider a standard parabola $y = ax^2$. Observe that, if rotated, this parabola remains unchanged in shape, as if we've just "tilted our head". Mathematically, this transformation can be expressed using a rotation matrix:
 
 $R(\theta) = \begin{pmatrix} \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta) \end{pmatrix}$
 
