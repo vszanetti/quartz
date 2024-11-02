@@ -5,6 +5,7 @@ date: 2024-11-01
 tags:
   - math
   - computers
+  - linear algebra
 ---
 
 In the realm of digital images, every pixel seen on screens is fundamentally a mathematical construct &mdash; specifically a vector in a carefully defined color space. While the intuitive notion is to think of colors as singular entities, they are, in fact, points in a three-dimensional vector space where each dimension represents the intensity of a primary color. The most common representation, the RGB color space, encodes colors as triplets $(r,g,b)$, where each component represents the intensity of red, green, and blue light respectively, typically scaled from 0 to 255 in 8-bit color depth.
