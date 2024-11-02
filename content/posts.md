@@ -4,7 +4,16 @@ draft: false
 ---
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags). I've chosen to separate any technical writing such as guides in [this section](technical).
 
-
+<header class="entry-header">
+    <h2 class="entry-title"><a href="beautyasfunction" rel="bookmark">Beauty as a feature</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>November 2, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/design" rel="category tag">Design</a>
+            <a href="tags/apple" rel="category tag">Apple</a>
+            <a href="tags/opinion" rel="category tag">Opinion</a>
+        </div></div></header>
 
 <header class="entry-header">
     <h2 class="entry-title"><a href="alfaromeo" rel="bookmark">Exotic, not ugly</a></h2>
@@ -22,6 +31,7 @@ draft: false
             <a>November 1, 2024</a>
         </div><div class="entry-topic">
             <a href="tags/math" rel="category tag">Math</a>
+            <a href="tags/linear-algebra" rel="category tag">Linear Algebra</a>
         </div></div></header>
 
 <header class="entry-header">
@@ -31,6 +41,7 @@ draft: false
             <a>October 31, 2024</a>
         </div><div class="entry-topic">
             <a href="tags/math" rel="category tag">Math</a>
+            <a href="tags/linear-algebra" rel="category tag">Linear Algebra</a>
         </div></div></header>
 
 <header class="entry-header">
@@ -40,6 +51,7 @@ draft: false
             <a>October 29, 2024</a>
         </div><div class="entry-topic">
             <a href="tags/design" rel="category tag">Design</a>
+            <a href="tags/opinion" rel="category tag">Opinion</a>
         </div></div></header>
 
 <header class="entry-header">
@@ -49,6 +61,7 @@ draft: false
             <a>October 28, 2024</a>
         </div><div class="entry-topic">
             <a href="tags/opinion" rel="category tag">Opinion</a>
+            <a href="tags/apple" rel="category tag">Apple</a>
         </div></div></header>
 
 <header class="entry-header">
@@ -58,6 +71,7 @@ draft: false
             <a>October 28, 2024</a>
         </div><div class="entry-topic">
             <a href="tags/computers" rel="category tag">Computers</a>
+            <a href="tags/apple" rel="category tag">Apple</a>
         </div></div></header>
 
 <header class="entry-header">
