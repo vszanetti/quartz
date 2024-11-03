@@ -7,6 +7,10 @@ tags:
   - opinion
 ---
 
+<p style="text-align:left; font-size:medium; color:gray;">
+Questo articolo è disponibile anche in Italiano <a href="it/misteri">qui.</a>
+</p>
+
 <p style="text-align:justify;"><i>What if the most fulfilling answers are the ones we never find out?</i> is a question worthy of keeping us up at night. In an age where search engines stand out to resolve any uncertainty within seconds and TV shows feel compelled to explain every plot point, and people are obsessed with tying up every loose and dissect, explain, and "uncover" even the slightest unsureness, mystery itself seems endangered. But what if the best mysteries are the ones left untouched?</p>
 <p style="text-align:justify;">In the Cinema sphere, <a href="https://www.imdb.com/name/nm0000186/">David Lynch</a> is a defiant guardian of mystery. His movies feel like fever dreams that stubbornly resist explanation and actively provoke discomfort with the unexplained. Take <i>Twin Peaks</i> for example, perhaps the greatest TV drama series ever created. When fans demanded answers about the cryptic finale, Lynch just left them all in the fog. To truly <i>get it</i>, one must embrace the confusion and, in particular, find an odd satisfaction in <i>not getting it</i>. I side with those who believe that the question itself matters more than the answer.</p>
 
