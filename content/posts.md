@@ -5,6 +5,15 @@ draft: false
 ### All posts are as follow, from latest to last. You can access popular topics [by clicking here](fences) or all tags [through here](tags). I've chosen to separate any technical writing such as guides in [this section](technical).
 
 <header class="entry-header">
+    <h2 class="entry-title"><a href="paddleton" rel="bookmark">When friendship faces mortality</a></h2>
+    <div class="entry-details">
+        <div class="entry-date">
+            <a>November 3, 2024</a>
+        </div><div class="entry-topic">
+            <a href="tags/cinema" rel="category tag">Cinema</a>
+        </div></div></header>
+
+<header class="entry-header">
     <h2 class="entry-title"><a href="beautyasfunction" rel="bookmark">Beauty as a feature</a></h2>
     <div class="entry-details">
         <div class="entry-date">
